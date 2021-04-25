@@ -23,4 +23,4 @@
 ![Feed](https://user-images.githubusercontent.com/76955730/115982363-22fa1880-a5a3-11eb-82c0-1c1e0ad1d146.png)
 
 ### For the Database there is a backup file called **RepairShopDB**.
-### Also if you want to run this application don't foreget to change the user and the password for the database connection in all .java files.
+### Also if you want to run this application don't foreget to change the user and the password for the database connection in all .java files that require database conecction.
