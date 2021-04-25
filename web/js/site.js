@@ -329,22 +329,3 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById("password").onclick = changeType;
 });
 
-
-/*
- String sql = "INSERT INTO Repairs (ComputerOwner, ComputerSerialNumber, Type, "
-                    + "Model, MemoryGB, HardDeskGB, Problems, RepairCost, RepairStatus, "
-                    + "RepairFinishDateTime, RepairDeliveryDateTime) VALUES (?, ?, ?, ?, ?, ?, "
-                    + "?, ?, ?, ?, NOW())";   //NOW())";
-            PreparedStatement pStmt  =  conn.prepareStatement(sql);
-            pStmt.setString(1, uname);                     // 1 specifies the first parameter in the query
-            pStmt.setString(2, phone);             // 2 specifies the second parameter in the query
-            pStmt.setString(3, country);
-            pStmt.setString(4, gender_character);
-            pStmt.setString(5, english_character);
-            pStmt.setString(6, arabic_character);
-            pStmt.setString(7, french_character);
-            pStmt.setString(8, italian_character);
-            pStmt.setString(9, email);
-            pStmt.setString(10, password);
- */
-
