@@ -1,4 +1,4 @@
-# Kfix-Repair-Shop
+# Repair Shop
 
 ### This web application was built using Java Servlet, HTML, CSS, and JS.
 
